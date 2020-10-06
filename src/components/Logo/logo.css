@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.logo h1 {
+  text-align: center;
+  margin: 0.5em auto 0;
+  line-height: 1em;
+}
