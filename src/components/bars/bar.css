@@ -1,0 +1,6 @@
+.navbar {
+  display: flex;
+  background-color: #151827;
+  padding: 15px 16px 14px;
+  justify-content: space-around;
+}
