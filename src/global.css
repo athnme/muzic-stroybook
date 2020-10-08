@@ -1,4 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;500&display=swap");
+/*
+ @import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;500&display=swap");
+*/
+
+@import url("https://db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium");
+@import url("https://db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book");
 
 *,
 *::after,
@@ -7,7 +12,7 @@
 }
 
 html {
-  font-family: "Hind Madurai", sans-serif;
+  font-family: "Circular Std Book";
   font-weight: 400;
   font-size: 16px;
   color: #fff;
@@ -24,5 +29,5 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: "Hind Madurai", sans-serif;
+  font-family: "Circular Std Book";
 }

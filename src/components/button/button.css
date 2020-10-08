@@ -32,3 +32,28 @@ button {
     rgba(237, 135, 112, 1) 100%
   );
 }
+
+.menu-btn {
+  background: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  border: none;
+  font-size: 10px;
+  min-width: 50px;
+}
+
+.menu-btn span {
+  margin-top: 7px;
+}
+
+#settings span,
+#songs span {
+  opacity: 0.28;
+}
+
+#home {
+  color: #d9519d;
+}
